@@ -38,7 +38,7 @@ A full computerized pharmacy inventory and dispensing system built for **Sunrise
 
 | Role | Username | Password |
 |------|----------|----------|
-| Administrator | `admin` | `admin123` |
+| Administrator | `admin` | `admin123*` |
 | Cashier | `cashier` | `cash123` |
 | Financial Manager | `finance` | `fin123` |
 
